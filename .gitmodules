@@ -1,0 +1,10 @@
+[submodule "libs/liquidfun/liquidfun"]
+	path = libs/liquidfun/liquidfun
+	url = https://github.com/google/liquidfun.git
+[submodule "libs/GAF"]
+	path = libs/GAF
+	url = https://github.com/CatalystApps/Cocos2dxGAFPlayer.git
+	branch = gaf_4_develop
+[submodule "samples/SwiftTetris/Bindings"]
+	path = samples/SwiftTetris/Bindings
+	url = https://github.com/cocos2d/cocos2d-x-swift-bindings
